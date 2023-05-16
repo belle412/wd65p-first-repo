@@ -1,0 +1,18 @@
+const classNames = ['Yuzon', 'Dasalla', 'Ison', 'Tanong', 'Reyes', 'Palentinos', 'David', 'Tecson', 'Bugnay', 'Culcul', 'Dantic', 'Padrinao', 'Lopez', 'Burgos', 'Anadon']
+
+for (let surName = 0; surName < classNames.length; surName++) 
+
+{ console.log(classNames[surName])
+
+    if(classNames[surName] === 'Anadon')
+    {
+    
+
+
+        break;
+
+    }
+
+ 
+}
+
